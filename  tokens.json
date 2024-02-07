@@ -1,0 +1,39 @@
+{
+  "global": {
+    "HeadingOne": {
+      "value": {
+        "fontFamily": "Montserrat",
+        "fontWeight": "Bold",
+        "lineHeight": "Auto",
+        "fontSize": "62px",
+        "letterSpacing": "1px",
+        "paragraphSpacing": "0",
+        "paragraphIndent": "0",
+        "textDecoration": "None",
+        "textCase": "As Typed"
+      },
+      "type": "typography",
+      "description": "Use this for large heading text"
+    },
+    "HeadingTwo": {
+      "value": {
+        "fontFamily": "Poppins",
+        "fontWeight": "Regular",
+        "fontSize": "76",
+        "lineHeight": "Auto",
+        "letterSpacing": "1px",
+        "paragraphSpacing": "0",
+        "paragraphIndent": "0",
+        "textDecoration": "None",
+        "textCase": "As Typed"
+      },
+      "type": "typography"
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "global"
+    ]
+  }
+}
